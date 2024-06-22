@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/form-two-job-application/static/css/main.a2810ec3.css",
+    "main.js": "/form-two-job-application/static/js/main.e8a8e281.js",
+    "static/js/453.3f5426f9.chunk.js": "/form-two-job-application/static/js/453.3f5426f9.chunk.js",
+    "index.html": "/form-two-job-application/index.html",
+    "main.a2810ec3.css.map": "/form-two-job-application/static/css/main.a2810ec3.css.map",
+    "main.e8a8e281.js.map": "/form-two-job-application/static/js/main.e8a8e281.js.map",
+    "453.3f5426f9.chunk.js.map": "/form-two-job-application/static/js/453.3f5426f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2810ec3.css",
+    "static/js/main.e8a8e281.js"
+  ]
+}
